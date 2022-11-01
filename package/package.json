@@ -3,7 +3,7 @@
     "prepare": "patch-package"
   },
   "devDependencies": {
-    "patch-package": "^5.1.2"
+    "patch-package": "^6.5.0"
   },
   "dependencies": {
     "@node-steam/vdf": "^2.0.1",
